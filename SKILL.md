@@ -1,9 +1,6 @@
 ---
 name: options-derivatives
 description: Options pricing, Greeks analysis, and derivatives strategy evaluation for hedging and speculation
-metadata:
-  author: scrutari
-  version: "1.0"
 ---
 
 # Options & Derivatives Analysis

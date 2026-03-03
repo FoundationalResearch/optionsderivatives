@@ -5,6 +5,16 @@
 
 **A standalone AI skill for options and derivatives analysis.** Provides structured methodology for options pricing, Greeks analysis, strategy evaluation, hedging, and volatility trading. Works with Claude Code, Cursor, Codex, and any LLM-powered coding agent that supports skill files.
 
+## Install
+
+```bash
+npx skills add FoundationalResearch/skills@options-derivatives
+```
+
+Works with **Claude Code, Cursor, GitHub Copilot, Codex, Gemini, Windsurf**, and [20+ other agents](https://skills.sh).
+
+> Part of the [FoundationalResearch Skills](https://github.com/FoundationalResearch/skills) collection — 14 professional financial analysis skills for AI agents.
+
 ---
 
 ## What Is This?
@@ -128,7 +138,7 @@ Use references/greeks-reference.md for detailed Greeks data and position sizing.
 
 You can also copy `SKILL.md` and `references/greeks-reference.md` directly into your project or paste them into any LLM conversation for immediate options analysis expertise.
 
-## Installation
+## Also available on npm
 
 ```bash
 # npm
