@@ -1,0 +1,18 @@
+{
+  "name": "@foundationalresearch/optionsderivatives",
+  "version": "1.0.0",
+  "description": "Options & derivatives analysis skill — pricing, Greeks, strategy evaluation, hedging, and volatility trading for financial agents",
+  "keywords": ["ai-skill", "financial-analysis", "options", "derivatives", "greeks", "volatility", "hedging", "puts", "calls", "llm", "claude", "cursor", "codex"],
+  "author": "FoundationalResearch",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FoundationalResearch/optionsderivatives.git"
+  },
+  "homepage": "https://github.com/FoundationalResearch/optionsderivatives#readme",
+  "bugs": {
+    "url": "https://github.com/FoundationalResearch/optionsderivatives/issues"
+  },
+  "files": ["SKILL.md", "references/", "README.md", "LICENSE"],
+  "type": "module"
+}
